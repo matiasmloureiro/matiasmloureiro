@@ -1,6 +1,6 @@
 #Olá mundo!
 
-#***Meu nome é Matias. Atualmente estou curnsando o curso de técnico em informática.***
+#***Meu nome é Matias. Atualmente estou curnsando o curso de técnico em informática no colégio Politécnico da UFSM.***
 
 Meus interesses:
 
