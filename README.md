@@ -7,10 +7,10 @@ Meus interesses:
 - 
 - 
 |Meus interesses:      |
-|------------|-------------|
-|   Futebol     |     |
-|      Informática   |       |
-|  |  |Leitura de notícias em portais
+|-------------------------|
+|   Futebol          |
+|      Informática         |
+|   Leitura de notícias em portais|
 
 
 
