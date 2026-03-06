@@ -1,6 +1,6 @@
-#Olá mundo!#
+***Olá mundo!***
 
-##***Meu nome é Matias Michelotti Loureiro. Atualmente estou curnsando o curso de técnico em informática no colégio Politécnico da UFSM.***##
+***Meu nome é Matias Michelotti Loureiro. Atualmente estou curnsando o curso de técnico em informática no colégio Politécnico da UFSM.***
 
 |Meus interesses:      |
 |-------------------------|
