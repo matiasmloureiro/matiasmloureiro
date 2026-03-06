@@ -4,10 +4,10 @@
 
 |Meus interesses:      |
 |-------------------------|
-|   Futebol          |
-|      Informática         |
+|      Informática       |
+|      Futebol        |
 |   Leitura de notícias em portais|
 
-
+ 
 
 ![texto alternativo](https://upload.wikimedia.org/wikipedia/commons/1/1a/Crystal_Project_computer.png)
